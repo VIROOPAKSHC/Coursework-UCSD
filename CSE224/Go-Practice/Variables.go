@@ -29,7 +29,7 @@ func variables() {
 	fmt.Println(f)
 }
 
-func main() {
-	// values()
-	variables()
-}
+// func main() {
+// 	// values()
+// 	variables()
+// }
